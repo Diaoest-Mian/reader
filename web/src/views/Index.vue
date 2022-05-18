@@ -20,7 +20,7 @@
     >
       <div class="navigation-inner-wrapper">
         <div class="navigation-title">
-          阅读
+          爱丽丝的小书屋
           <span class="version-text" @click="updateForce">{{
             $store.state.version
           }}</span>
